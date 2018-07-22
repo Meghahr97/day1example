@@ -1,0 +1,6 @@
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\Day1Examples\PropertyExample\bin\Debug\PropertyExample.exe.config
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\Day1Examples\PropertyExample\bin\Debug\PropertyExample.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\Day1Examples\PropertyExample\bin\Debug\PropertyExample.pdb
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\Day1Examples\PropertyExample\obj\Debug\PropertyExample.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\Day1Examples\PropertyExample\obj\Debug\PropertyExample.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\Day1Examples\PropertyExample\obj\Debug\PropertyExample.pdb
